@@ -1,0 +1,11 @@
+C:\Sarath\Tryout\Products\eCommerce\eCommerceService\obj\Debug\eCommerceService.csprojAssemblyReference.cache
+C:\Sarath\Tryout\Products\eCommerce\eCommerceService\obj\Debug\eCommerceService.csproj.CoreCompileInputs.cache
+C:\Sarath\Tryout\Products\eCommerce\eCommerceService\bin\Debug\eCommerceService.dll
+C:\Sarath\Tryout\Products\eCommerce\eCommerceService\bin\Debug\eCommerceService.pdb
+C:\Sarath\Tryout\Products\eCommerce\eCommerceService\bin\Debug\Common.dll
+C:\Sarath\Tryout\Products\eCommerce\eCommerceService\bin\Debug\Dal.dll
+C:\Sarath\Tryout\Products\eCommerce\eCommerceService\bin\Debug\Common.pdb
+C:\Sarath\Tryout\Products\eCommerce\eCommerceService\bin\Debug\Dal.pdb
+C:\Sarath\Tryout\Products\eCommerce\eCommerceService\obj\Debug\eCommerceService.csproj.CopyComplete
+C:\Sarath\Tryout\Products\eCommerce\eCommerceService\obj\Debug\eCommerceService.dll
+C:\Sarath\Tryout\Products\eCommerce\eCommerceService\obj\Debug\eCommerceService.pdb

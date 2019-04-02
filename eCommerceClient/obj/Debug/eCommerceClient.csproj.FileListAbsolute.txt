@@ -1,0 +1,17 @@
+C:\Sarath\Tryout\Products\eCommerce\eCommerceClient\bin\Debug\eCommerceClient.dll
+C:\Sarath\Tryout\Products\eCommerce\eCommerceClient\bin\Debug\eCommerceClient.pdb
+C:\Sarath\Tryout\Products\eCommerce\eCommerceClient\bin\Debug\Common.dll
+C:\Sarath\Tryout\Products\eCommerce\eCommerceClient\bin\Debug\RestSharp.dll
+C:\Sarath\Tryout\Products\eCommerce\eCommerceClient\bin\Debug\System.Buffers.dll
+C:\Sarath\Tryout\Products\eCommerce\eCommerceClient\bin\Debug\System.Memory.dll
+C:\Sarath\Tryout\Products\eCommerce\eCommerceClient\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Sarath\Tryout\Products\eCommerce\eCommerceClient\bin\Debug\Common.pdb
+C:\Sarath\Tryout\Products\eCommerce\eCommerceClient\bin\Debug\RestSharp.xml
+C:\Sarath\Tryout\Products\eCommerce\eCommerceClient\bin\Debug\System.Buffers.xml
+C:\Sarath\Tryout\Products\eCommerce\eCommerceClient\bin\Debug\System.Memory.xml
+C:\Sarath\Tryout\Products\eCommerce\eCommerceClient\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Sarath\Tryout\Products\eCommerce\eCommerceClient\obj\Debug\eCommerceClient.csprojAssemblyReference.cache
+C:\Sarath\Tryout\Products\eCommerce\eCommerceClient\obj\Debug\eCommerceClient.csproj.CoreCompileInputs.cache
+C:\Sarath\Tryout\Products\eCommerce\eCommerceClient\obj\Debug\eCommerceClient.csproj.CopyComplete
+C:\Sarath\Tryout\Products\eCommerce\eCommerceClient\obj\Debug\eCommerceClient.dll
+C:\Sarath\Tryout\Products\eCommerce\eCommerceClient\obj\Debug\eCommerceClient.pdb

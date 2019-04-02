@@ -1,0 +1,6 @@
+C:\Sarath\Tryout\Products\eCommerce\Common\bin\Debug\Common.dll
+C:\Sarath\Tryout\Products\eCommerce\Common\bin\Debug\Common.pdb
+C:\Sarath\Tryout\Products\eCommerce\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Sarath\Tryout\Products\eCommerce\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Sarath\Tryout\Products\eCommerce\Common\obj\Debug\Common.dll
+C:\Sarath\Tryout\Products\eCommerce\Common\obj\Debug\Common.pdb
